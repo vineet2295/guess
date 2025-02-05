@@ -1,0 +1,24 @@
+body{
+  background-color: bisque;
+  text-align: center;
+}
+.op{
+  height: 30px;
+  width: 80px ;
+  margin: 10px;
+}
+#question{
+  border: solid rgba(107, 80, 0, 0.923) 2px;
+  font-size: large;
+}
+
+#detail{
+  background-color: rgb(253, 196, 156);
+  border :solid rgb(105, 80, 21);
+  border-radius: 5px ;
+  margin: 10px;
+  margin-bottom: 10px ;
+  height: 120px;
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size:x-large;
+}
